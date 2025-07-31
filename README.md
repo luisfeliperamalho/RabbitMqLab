@@ -16,20 +16,3 @@ Este projeto demonstra o uso de mensageria com **RabbitMQ** em aplicações .NET
 
 ---
 
-## 📁 Estrutura do projeto
-
-RabbitMqLab/
-├── RabbitMqLab.Producer/ # Envia mensagens
-├── RabbitMqLab.Consumer/ # Escuta e consome mensagens
-└── RabbitMqLab.sln # Solution principal
-
----
-
-## 🚀 Como executar localmente
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/RabbitMqLab.git
-cd RabbitMqLab
-
