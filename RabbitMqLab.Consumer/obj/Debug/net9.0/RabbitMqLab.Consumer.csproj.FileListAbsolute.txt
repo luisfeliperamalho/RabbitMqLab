@@ -1,0 +1,17 @@
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.AssemblyInfoInputs.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.AssemblyInfo.cs
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.csproj.CoreCompileInputs.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\bin\Debug\net9.0\RabbitMqLab.Consumer.exe
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\bin\Debug\net9.0\RabbitMqLab.Consumer.deps.json
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\bin\Debug\net9.0\RabbitMqLab.Consumer.runtimeconfig.json
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\bin\Debug\net9.0\RabbitMqLab.Consumer.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\bin\Debug\net9.0\RabbitMqLab.Consumer.pdb
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.csproj.AssemblyReference.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMq.FF9E0409.Up2Date
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\refint\RabbitMqLab.Consumer.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.pdb
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\RabbitMqLab.Consumer.genruntimeconfig.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Consumer\obj\Debug\net9.0\ref\RabbitMqLab.Consumer.dll

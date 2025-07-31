@@ -1,0 +1,17 @@
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.AssemblyInfoInputs.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.AssemblyInfo.cs
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.csproj.CoreCompileInputs.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.csproj.AssemblyReference.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\bin\Debug\net9.0\RabbitMqLab.Producer.exe
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\bin\Debug\net9.0\RabbitMqLab.Producer.deps.json
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\bin\Debug\net9.0\RabbitMqLab.Producer.runtimeconfig.json
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\bin\Debug\net9.0\RabbitMqLab.Producer.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\bin\Debug\net9.0\RabbitMqLab.Producer.pdb
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMq.5AA4C0BF.Up2Date
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\refint\RabbitMqLab.Producer.dll
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.pdb
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\RabbitMqLab.Producer.genruntimeconfig.cache
+C:\projects\RabbitMqLab\RabbitMqLab.Producer\obj\Debug\net9.0\ref\RabbitMqLab.Producer.dll
